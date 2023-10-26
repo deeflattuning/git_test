@@ -1,3 +1,2 @@
 # git_test
-Repo test
-Hello Odin! 
+Hello Odin! This is my first repo pushed from the kernel
